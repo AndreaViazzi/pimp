@@ -1,11 +1,11 @@
 # PIMP: Procesamiento de Imágenes Multiespectrales en Python 📊💻🐍
 
-<img src="Micasense-RE-P.webp" alt="Micasense-RE-P" width="150"/>
-
 
 ## Descripción
 
 La clase `PIMP` es una herramienta en Python diseñada para el procesamiento y análisis de datos de imágenes multiespectrales, especialmente imágenes capturadas con cámaras [RedEdge-P](https://www.micasense.com/rededge-p). Proporciona funcionalidades para cargar, alinear, componer y analizar imágenes, así como para realizar preprocesamiento de datos.
+
+<img src="Micasense-RE-P.webp" alt="Micasense-RE-P" width="150"/>
 
 ## Características
 
