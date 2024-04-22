@@ -1,4 +1,4 @@
-# PIMP: Procesamiento de Imágenes Multiespectrales en Python 🌈📸
+# PIMP: Procesamiento de Imágenes Multiespectrales en Python 📸📊💻🐍
 
 ![PIMP Logo](pimp_logo_small.png)
 
