@@ -1,7 +1,6 @@
-# PIMP: Procesamiento de Imágenes Multiespectrales en Python 📸📊💻🐍
+# PIMP: Procesamiento de Imágenes Multiespectrales en Python 📊💻🐍
 
-![Micasense-RE-P](Micasense-RE-P.webp)
-<img src="Micasense-RE-P.webp" alt="Micasense-RE-P" width="100"/>
+<img src="Micasense-RE-P.webp" alt="Micasense-RE-P" width="150"/>
 
 
 ## Descripción
